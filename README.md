@@ -4,7 +4,7 @@
 - This script is part of the Oracle ONE Next Generation program. Intended to be a challenge to test my basic skills on JavaScript. 
 
 ## How it works?
-- The game works by asking the user to input names for some of their friends. It also accounts for malicious input by alerting the user if no input is submitted.
+- The game works by asking the user to input names of some of their friends. It also accounts for malicious input by alerting the user if no input is submitted.
 - Once the user has finished listing all of their friends, the program "randomly" picks one of them and prints their name on the screen. 
 
 ## Personal notes:
