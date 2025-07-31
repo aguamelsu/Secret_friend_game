@@ -11,3 +11,5 @@
 ### 30/07/25
 - Today I started the project. I created a new repo via **git init**, added and commited the files, then connected it to github with **remote add** and finally pushed the files. 
 - I'm not working on any feature today. Since its the first day of working on this challenge, I want to clearly determine a plan on how to approach each feature of the script, as well as starting to plan the structure I will use.  
+
+## 31/07/25
