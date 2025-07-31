@@ -116,13 +116,17 @@ button {
 }
 
 .button-add {
-    background-color: var(--color-tertiary);
-    color: var(--color-text);
+    background-color: var(--color-button);
+    color: var(--color-white);
     border-radius: 0 25px 25px 0;
 }
 
 .button-add:hover {
     background-color: #a1a1a1;
+}
+
+.button-add:disabled {
+    background: #898989;
 }
 
 /* Listas */
@@ -159,4 +163,8 @@ ul {
 
 .button-draw:hover {
     background-color: var(--color-button-hover);
+}
+
+.button-draw:disabled {
+    background: #898989;
 }
